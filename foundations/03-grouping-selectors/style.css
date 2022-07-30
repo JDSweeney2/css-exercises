@@ -1,0 +1,14 @@
+.unique,
+.uniqueness {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.unique {
+    background-color: black;
+    color: white;
+}
+
+.uniqueness {
+    background-color: yellow;
+}
